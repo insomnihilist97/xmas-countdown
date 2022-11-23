@@ -6,7 +6,7 @@
 
 ## Problem description
 
-Christmas is coming soon! But how soon? 🤔 Wouldn't it be nice to know exactly how many days, hours, minutes, and seconds are left until that magical day? In this challenge, you'll create a counter to tell you exactly that.
+Christmas is coming soon! But how soon? 🤔 Wouldn't it be nice to know exactly how many days, hours, minutes, and seconds are left until that magical day? In this challenge, you'll create a countdown to tell you exactly that.
 
 Use the `useNow` composable from VueUse (preinstalled) to get a reactive version of the current time and then do the math to get days, hours, minutes, and seconds until Christmas.
 
